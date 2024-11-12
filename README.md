@@ -18,5 +18,5 @@ sua média, assim como nas outras disciplinas para cada aluno.
 6. Apresente ao final do programa a nota detalhada deles e seus dados escolares;
 7. Os dados devem ser armazenados e pesquisados diretamente do banco de dados
 
-
+Teste Daniel.
 
