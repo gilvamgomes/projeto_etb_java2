@@ -8,15 +8,13 @@ Sua equipe de programadores foi contratada para fazer o sistema de notas de uma 
 
 O sistema consiste nas seguintes regras:
 
-1. Cadastrar 5 disciplinas: matemática, português, ciências, história e geografia;
-2. Cadastrar 5 alunos pegando os seguintes dados: nome, série e turma.
+1. Cadastrar 5 disciplinas: matemática, português, ciências, história e geografia; (ok)
+2. Cadastrar 5 alunos pegando os seguintes dados: nome, série e turma. (ok)
 3. Pedir para inserirem as notas das 5 disciplinas de todos os bimestres, ou seja, em
 um ano temos 4 bimestres. Portanto, é preciso apresentar 4 notas de matemática e
-sua média, assim como nas outras disciplinas para cada aluno.
-4. É preciso que o usuário do sistema insira todas as notas;
-5. Você deverá apresentar essas notas na tela, assim como as médias por disciplina;
-6. Apresente ao final do programa a nota detalhada deles e seus dados escolares;
-7. Os dados devem ser armazenados e pesquisados diretamente do banco de dados
+sua média, assim como nas outras disciplinas para cada aluno.(ok)
+4. É preciso que o usuário do sistema insira todas as notas; (ok)
+5. Você deverá apresentar essas notas na tela, assim como as médias por disciplina;(ok)
+6. Apresente ao final do programa a nota detalhada deles e seus dados escolares;(ok)
+7. Os dados devem ser armazenados e pesquisados diretamente do banco de dados (ok)
 
-Teste Daniel.
-Teste 2 Gilvam.
